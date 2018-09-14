@@ -1,0 +1,33 @@
+ArrayList creating time is : 96840.0 microseconds
+LinkedList creating time is : 181571.0 microseconds
+HashMap creating time is : 159804.0 microseconds
+
+Array List Binary Search
+
+Estimated time is : 47.0 microseconds for abacus
+Estimated time is : 20.0 microseconds for kite
+Estimated time is : 8.0 microseconds for zygote
+
+Linked List Binary Search
+
+Estimated time is : 11608.0 microseconds for abacus
+Estimated time is : 7792.0 microseconds for kite
+Estimated time is : 7970.0 microseconds for zygote
+
+Array List Sequential Search
+
+Estimated time is : 7391.0 microseconds for abacus
+Estimated time is : 7031.0 microseconds for kite
+Estimated time is : 5373.0 microseconds for zygote
+
+Linked List Sequential Search
+
+Estimated time is : 7153.0 microseconds for abacus
+Estimated time is : 14721.0 microseconds for kite
+Estimated time is : 13154.0 microseconds for zygote
+
+HashMap Search
+
+Estimated time is : 15.0 microseconds for abacus
+Estimated time is : 7388.0 microseconds for kite
+Estimated time is : 9189.0 microseconds for zygote
